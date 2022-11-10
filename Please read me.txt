@@ -1,0 +1,1 @@
+-This project requires mysql-connector-java-8.0.30 and rs2xml which can be found in the Libraries folder
